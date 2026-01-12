@@ -106,4 +106,4 @@ This project is open source – feel free to use and modify it.
 
 ---
 
-Would you like me to also **add badges, emojis, and a preview GIF** to make your README more attractive for GitHub?
+
