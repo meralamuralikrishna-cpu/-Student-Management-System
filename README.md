@@ -1,6 +1,3 @@
-Got it 👍. You want a **README.md** file for your GitHub project that explains your **Student Management System** Python script. Let me draft a professional, clear, and engaging README for you:
-
----
 
 # 📚 Student Management System
 
